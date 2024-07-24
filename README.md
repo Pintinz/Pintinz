@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Pintinz, My full name is Iguagbonmwen Osaivbie
 - 👀 I’m interested in Information Technology
-- 🌱 I’m currently learning Software Engineering and Blockchain Technology
+- 🌱 I’m currently learning Data Science and Machine Learning
 - 💞️ I’m looking to collaborate on mind blowing projects
 - 📫 How to reach me osaivbieiguagbonmwen@gmail.com
 
